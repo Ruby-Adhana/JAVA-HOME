@@ -12,7 +12,6 @@ public class Array {
         System.out.println("Print by loop");
         for(int i=0;i< marks.length;i++){
             System.out.println(marks[i]);
-            System.out.println[i];
         }
     }
 }
