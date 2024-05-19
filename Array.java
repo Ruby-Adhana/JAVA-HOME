@@ -2,7 +2,7 @@ public class Array {
     public static void main(String[] args) {
         System.out.println("Arrays");
 
-        int marks[] =new int[3];
+        int marks[] =new int[5];
         marks[0]=001;
         marks[1]=002;
         marks[2]=003;
